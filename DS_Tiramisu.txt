@@ -2,7 +2,7 @@ Tiramisu
 
 Menu Class: Dessert
 
-Recipe by P. Gunardi
+Recipe by Peter Gunardi
 
 Description:
 Tiramisu is a classic Italian dessert. Ladyfinger cookies dipped in coffee, then layered with mascarponed and dusted with cocoa powder. This will become your new favorit dessert.
